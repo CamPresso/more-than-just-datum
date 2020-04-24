@@ -1,0 +1,36 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.box {
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+.nav1logo {
+  max-width: 200px;
+}
+
+.nav1 {
+  background-color: #ddd;
+}
+
+.search {
+  left: .3em;
+}
+
+.twrap {
+  min-width: 45em;
+}
+
+.pannelside {
+  background-color: #efefef;
+}
+
+@media only screen and (min-width: 76em) {
+
+  .twrap {
+    overflow: visible;
+  }
+
+}
